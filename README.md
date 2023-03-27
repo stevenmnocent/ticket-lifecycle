@@ -37,7 +37,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_a237d5c3c90c4893b61f86c895b7bec4~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-1. Go to localhost/osTicket to begin creating support tickets.
+Step 1: Navigate to localhost/osTicket.
 </p>
 <br />
 
@@ -46,7 +46,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_b3ba07f9729f4ef883ade027c89a4ff6~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-2. Click open a new ticket.
+Step 2: Click on "Open a New Ticket."
 </p>
 <br />
 
@@ -55,7 +55,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_eccbf785106e44e8af30930d88315cb4~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-3. Fill out the input text fields under contact information based on User 1 created in the last part of the lab.
+Step 3: Fill out the contact information input fields based on the user profile created in the previous part of the lab for User 1.
 </p>
 <br />
 
@@ -64,7 +64,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_6b6896a022394f00b3bee06c9d7f4f26~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-4. Choose any help topic and enter in an issue summary based on the help scenario you want to create and enter a short description of the issue, then click create ticket.
+Step 4: Select any help topic and enter an issue summary based on the scenario you want to create. Enter a brief description of the issue, then click on "Create Ticket."
 </p>
 <br />
 
@@ -76,7 +76,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_52f7398a711748f9b330acb9c0e1eb8e~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-5. Create 2 more tickets, 1 from User 2 and another one from User 1 again.
+Step 5: Create two more tickets: one from User 2 and another from User 1 again.
 </p>
 <br />
 
@@ -85,7 +85,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_ad97a9a88fac4aa98c254263729b4d83~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-6. Go to localhost/osTicket/scp/index.php and log out.
+Step 6: Log out by going to localhost/osTicket/scp/index.php.
 </p>
 <br />
 
@@ -94,7 +94,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_30e776e008254f2385043580e8073add~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-7. Login as Agent 1 created from the last part of the lab.
+Step 7: Log in as Agent 1, created in the previous part of the lab.
 </p>
 <br />
 
@@ -103,7 +103,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_46a88366ccb64e7dbdd3536a63c20284~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-8. Click on the first ticket created to start working that ticket.
+Step 8: Select the first ticket that was created to start working it.
 </p>
 <br />
 
@@ -112,7 +112,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_cdf4ed8d8c79433b9b95afa33201970d~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-9. Start by updating the priority level and leave a note as to the reason for the update.
+Step 9: Start by updating the priority level, then leave a note explaining the reason for the update.
 </p>
 <br />
 
@@ -121,7 +121,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_bf9dc6bbe4eb4143b4d867d18048e121~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-10. Next, assign the ticket to the agent best equipped to deal with the ticket based on their department and role.
+Step 10: Assign the ticket to the agent best equipped to handle it, based on their role.
 </p>
 <br />
 
@@ -130,7 +130,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_a43d998560694b30bcd8e7a151ae6581~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-11. Set the SLA and notate the reason for the update.
+Step 11: Set the service-level agreement (SLA) and make a note of the reason for the update.
 </p>
 <br />
 
@@ -139,7 +139,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_63dfa80d66884b6fad45e5828ebab5fc~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-12. Next, assign the ticket to the correct department and notate the reason for the update.
+Step 12: Assign the ticket to the appropriate department and leave a note explaining the reason for the update.
 </p>
 <br />
 
@@ -148,7 +148,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_556c6729d50c4785b328fcca75d803a5~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-13. Resolve the ticket by leaving a reply with the course of action taken to solve the ticket and change the ticket status to resolved and click post reply.
+Step 13: Leave a reply outlining the course of action taken to solve the ticket, change the ticket status to "Resolved," and click "Post Reply."
 </p>
 <br />
 
@@ -163,7 +163,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_f496fe4cf86947ed9905c1ae63db1793~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-14. Repeat the steps above to solve the subsequent support tickets such as ticket 2 and 3 that are created.
+Step 14: Apply the same process to resolve subsequent support tickets, such as Ticket 2 and Ticket 3.
 </p>
 <br />
 
@@ -172,7 +172,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <img src="https://static.wixstatic.com/media/2ebf04_d2e046dd88124f308a7deb0315ea9526~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
-15. If all the steps were followed correctly, the tickets dashboard should be cleared of all support tickets.
+Step 15: Provided that all the steps were executed accurately, the support ticket dashboard will be cleared of all support tickets.
 </p>
 <br />
 
