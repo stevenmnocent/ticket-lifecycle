@@ -26,7 +26,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 <h2>Ticket Lifecycle Stages</h2>
 
 - Intake: This stage involves the initial receipt of a ticket.
-- Assignment and Communication: Once a ticket is received, it is assigned to a agent or team for further action. Communication is established between the support team and the ticket requester to gather additional information, clarify the issue, and provide updates on the progress of the resolution process.
+- Assignment and Communication: Once a ticket is received, it is assigned to a agent or team for further action. Communication is established between the support team and the ticket requester to gather additional information and provide updates on the resolution progression.
 - Working the Issue: In this stage, the assigned support team works to identify the root cause of the issue and devise an appropriate solution. Depending on the complexity of the problem, this may involve escalation to higher levels of support.
 - Resolution: Once the issue is resolved, the support team communicates the resolution to the ticket requester and closes the ticket.
 
