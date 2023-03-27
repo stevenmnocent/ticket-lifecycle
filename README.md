@@ -111,7 +111,7 @@ Step 8: Select the first ticket that was created to start working it.
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_cdf4ed8d8c79433b9b95afa33201970d~mv2.png" height="50%" width="50%" alt="osTicket: Ticket Lifecycle Examples"/>
+<img src="https://static.wixstatic.com/media/2ebf04_cdf4ed8d8c79433b9b95afa33201970d~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
 Step 9: Start by updating the priority level, then leave a note explaining the reason for the update.
@@ -120,7 +120,7 @@ Step 9: Start by updating the priority level, then leave a note explaining the r
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_bf9dc6bbe4eb4143b4d867d18048e121~mv2.png" height="50%" width="50%" alt="osTicket: Ticket Lifecycle Examples"/>
+<img src="https://static.wixstatic.com/media/2ebf04_bf9dc6bbe4eb4143b4d867d18048e121~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
 Step 10: Assign the ticket to the agent best equipped to handle it, based on their role.
@@ -129,7 +129,7 @@ Step 10: Assign the ticket to the agent best equipped to handle it, based on the
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_a43d998560694b30bcd8e7a151ae6581~mv2.png" height="50%" width="50%" alt="osTicket: Ticket Lifecycle Examples"/>
+<img src="https://static.wixstatic.com/media/2ebf04_a43d998560694b30bcd8e7a151ae6581~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
 Step 11: Set the service-level agreement (SLA) and make a note of the reason for the update.
@@ -138,7 +138,7 @@ Step 11: Set the service-level agreement (SLA) and make a note of the reason for
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_63dfa80d66884b6fad45e5828ebab5fc~mv2.png" height="50%" width="50%" alt="osTicket: Ticket Lifecycle Examples"/>
+<img src="https://static.wixstatic.com/media/2ebf04_63dfa80d66884b6fad45e5828ebab5fc~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
 Step 12: Assign the ticket to the appropriate department and leave a note explaining the reason for the update.
