@@ -8,7 +8,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolve tickets within osTicket](https://youtu.be/l_xQASSZoYU)
+- ### [YouTube: How To Create, Work, And Resolve Tickets Within osTicket](https://youtu.be/l_xQASSZoYU)
 
 <h2>Environments and Technologies Used</h2>
 
