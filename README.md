@@ -10,6 +10,9 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 
 - ### [YouTube: How To Create, Work, And Resolve Tickets Within osTicket](https://youtu.be/l_xQASSZoYU)
 
+[![YouTube](https://static.wixstatic.com/media/2ebf04_97c9213a8fed42c2adf5731ee34e1fa9~mv2.png)](https://youtu.be/l_xQASSZoYU)
+</p>
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
