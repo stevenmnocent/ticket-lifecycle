@@ -54,7 +54,7 @@ Step 2: Click on "Open a New Ticket."
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_eccbf785106e44e8af30930d88315cb4~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
+<img src="https://static.wixstatic.com/media/2ebf04_eccbf785106e44e8af30930d88315cb4~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
 Step 3: Fill out the contact information input fields based on the user profile created in the previous part of the lab for User 1.
@@ -63,7 +63,7 @@ Step 3: Fill out the contact information input fields based on the user profile 
 
 <p>
 <p align="center"> 
-<img src="https://static.wixstatic.com/media/2ebf04_6b6896a022394f00b3bee06c9d7f4f26~mv2.png" height="80%" width="80%" alt="osTicket: Ticket Lifecycle Examples"/>
+<img src="https://static.wixstatic.com/media/2ebf04_6b6896a022394f00b3bee06c9d7f4f26~mv2.png" height="60%" width="60%" alt="osTicket: Ticket Lifecycle Examples"/>
 </p>
 <p>
 Step 4: Select any help topic and enter an issue summary based on the scenario you want to create. Enter a brief description of the issue, then click on "Create Ticket."
