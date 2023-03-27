@@ -178,4 +178,4 @@ Step 15: Provided that all the steps were executed accurately, the support ticke
 </p>
 <br />
 
-<p align="center"><b><i>🎯A good example has twice the value of good advice. ~ Albert Schweitzer📜</b></i></p>
+<p align="center"><b><i>📜🎯A good example has twice the value of good advice. ~ Albert Schweitzer🎯</b></i></p>
