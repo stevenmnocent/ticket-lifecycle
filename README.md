@@ -31,7 +31,7 @@ This tutorial provides a detailed overview of the entire workflow involved in th
 - Resolution: Once the issue is resolved, the support team communicates the resolution to the ticket requester and closes the ticket.
 
 <h2>Lifecycle Stages</h2>
-<p align="left"> Previous Part 2 of 3: <a href="https://github.com/stevenmnocent/post-install-config">osTicket: Post-Installation Configuration</a></p>
+<p align="left"> Previous Part 2 of 3: <a href="https://github.com/stevennocent/post-install-config">osTicket: Post-Installation Configuration</a></p>
 <br />
 
 <p>
